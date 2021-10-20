@@ -1803,6 +1803,8 @@ function wp_widgets_init() {
 
 	
 
+	
+
 	/**
 	 * Fires after all default WordPress widgets have been registered.
 	 *

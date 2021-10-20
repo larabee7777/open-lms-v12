@@ -480,3 +480,366 @@ Stack trace:
 [15-Oct-2021 13:14:09 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
 [15-Oct-2021 13:14:09 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
 [15-Oct-2021 13:14:09 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:51:24 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:51:24 UTC] PHP Stack trace:
+[18-Oct-2021 12:51:24 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\plugins.php:0
+[18-Oct-2021 12:51:24 UTC] PHP   2. activate_plugin() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\plugins.php:58
+[18-Oct-2021 12:51:24 UTC] PHP   3. plugin_sandbox_scrape() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\includes\plugin.php:668
+[18-Oct-2021 12:51:24 UTC] PHP   4. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\includes\plugin.php:2286
+[18-Oct-2021 12:51:24 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:51:24 UTC] PHP Stack trace:
+[18-Oct-2021 12:51:24 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\plugins.php:0
+[18-Oct-2021 12:51:24 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\plugins.php:10
+[18-Oct-2021 12:51:24 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin.php:34
+[18-Oct-2021 12:51:24 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:51:24 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:51:24 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:52:18 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:52:18 UTC] PHP Stack trace:
+[18-Oct-2021 12:52:18 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:52:18 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:52:18 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:52:18 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:52:18 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:52:24 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:52:24 UTC] PHP Stack trace:
+[18-Oct-2021 12:52:24 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:52:24 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:52:24 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:52:24 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:52:24 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:53:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 17
+[18-Oct-2021 12:53:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 17
+[18-Oct-2021 12:53:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 17
+[18-Oct-2021 12:53:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 17
+[18-Oct-2021 12:53:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 17
+[18-Oct-2021 12:53:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 17
+[18-Oct-2021 12:54:01 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:54:01 UTC] PHP Stack trace:
+[18-Oct-2021 12:54:01 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\plugins.php:0
+[18-Oct-2021 12:54:01 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\plugins.php:10
+[18-Oct-2021 12:54:01 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin.php:34
+[18-Oct-2021 12:54:01 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:54:01 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:54:01 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:54:02 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:54:02 UTC] PHP Stack trace:
+[18-Oct-2021 12:54:02 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:54:02 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:54:02 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:54:02 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:54:02 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:54:02 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:54:19 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:54:19 UTC] PHP Stack trace:
+[18-Oct-2021 12:54:19 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:54:19 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:54:19 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:54:19 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:54:19 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:54:19 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:54:19 UTC] PHP Stack trace:
+[18-Oct-2021 12:54:19 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-cron.php:0
+[18-Oct-2021 12:54:19 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-cron.php:44
+[18-Oct-2021 12:54:19 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:54:19 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:54:19 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:55:02 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:55:02 UTC] PHP Stack trace:
+[18-Oct-2021 12:55:02 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:55:02 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:55:02 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:55:02 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:55:02 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:55:20 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:55:20 UTC] PHP Stack trace:
+[18-Oct-2021 12:55:20 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:55:20 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:55:20 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:55:20 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:55:20 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:02 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 13
+[18-Oct-2021 12:56:02 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:02 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:56:02 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:56:02 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:02 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:02 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:45 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:45 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:45 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:56:45 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:56:45 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:45 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:45 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'b' not found or invalid function name in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php on line 303
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:19
+[18-Oct-2021 12:56:47 UTC] PHP   4. include() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\template-loader.php:106
+[18-Oct-2021 12:56:47 UTC] PHP   5. get_template_part() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\themes\twentytwentyone\single.php:18
+[18-Oct-2021 12:56:47 UTC] PHP   6. locate_template() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\general-template.php:204
+[18-Oct-2021 12:56:47 UTC] PHP   7. load_template() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\template.php:716
+[18-Oct-2021 12:56:47 UTC] PHP   8. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\template.php:772
+[18-Oct-2021 12:56:47 UTC] PHP   9. the_content() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\themes\twentytwentyone\template-parts\content\content-single.php:23
+[18-Oct-2021 12:56:47 UTC] PHP  10. apply_filters() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\post-template.php:253
+[18-Oct-2021 12:56:47 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\plugin.php:189
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:56:47 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:56:47 UTC] PHP Stack trace:
+[18-Oct-2021 12:56:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 12:56:47 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 12:56:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 12:56:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:56:47 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:56:47 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 12:57:02 UTC] PHP Warning:  Use of undefined constant b - assumed 'b' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 12:57:02 UTC] PHP Stack trace:
+[18-Oct-2021 12:57:02 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 12:57:02 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 12:57:02 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 12:57:02 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 12:57:02 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:20 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:20 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:20 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:20 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:20 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:20 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:20 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:20 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:20 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:20 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:20 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:20 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:20 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:20 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:20 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:20 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:20 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:20 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:20 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:20 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:20 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:20 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:20 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:20 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:21 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:21 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:21 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:21 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:21 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:21 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:21 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:21 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:21 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:21 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:21 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:21 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:21 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:21 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:21 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:21 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:21 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:21 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:21 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:21 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:21 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:21 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:21 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:21 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:21 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:21 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:21 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:21 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:21 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:21 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:21 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:21 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:21 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:21 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:21 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[18-Oct-2021 13:00:21 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[18-Oct-2021 13:00:21 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[18-Oct-2021 13:00:21 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:21 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:21 UTC] PHP   6. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:00:21 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:00:21 UTC] PHP Stack trace:
+[18-Oct-2021 13:00:21 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:00:21 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:00:21 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:00:21 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:00:21 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:01:48 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:01:48 UTC] PHP Stack trace:
+[18-Oct-2021 13:01:48 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:01:48 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:01:48 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:01:48 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:01:48 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:02:22 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:02:22 UTC] PHP Stack trace:
+[18-Oct-2021 13:02:22 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:02:22 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:02:22 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:02:22 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:02:22 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:03:49 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:03:49 UTC] PHP Stack trace:
+[18-Oct-2021 13:03:49 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:03:49 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:03:49 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:03:49 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:03:49 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:04:23 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:04:23 UTC] PHP Stack trace:
+[18-Oct-2021 13:04:23 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:04:23 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:04:23 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:04:23 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:04:23 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:05:50 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:05:50 UTC] PHP Stack trace:
+[18-Oct-2021 13:05:50 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:05:50 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:05:50 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:05:50 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:05:50 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:06:24 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:06:24 UTC] PHP Stack trace:
+[18-Oct-2021 13:06:24 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:06:24 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:06:24 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:06:24 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:06:24 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:08:25 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:08:25 UTC] PHP Stack trace:
+[18-Oct-2021 13:08:25 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:08:25 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:08:25 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:08:25 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:08:25 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:10:26 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:10:26 UTC] PHP Stack trace:
+[18-Oct-2021 13:10:26 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:10:26 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:10:26 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:10:26 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:10:26 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:12:27 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:12:27 UTC] PHP Stack trace:
+[18-Oct-2021 13:12:27 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:12:27 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:12:27 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:12:27 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:12:27 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:14:28 UTC] PHP Warning:  Use of undefined constant addToEndOfPost - assumed 'addToEndOfPost' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 12
+[18-Oct-2021 13:14:28 UTC] PHP Stack trace:
+[18-Oct-2021 13:14:28 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[18-Oct-2021 13:14:28 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[18-Oct-2021 13:14:28 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[18-Oct-2021 13:14:28 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[18-Oct-2021 13:14:28 UTC] PHP   5. include_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-settings.php:409
+[18-Oct-2021 13:14:34 UTC] PHP Parse error:  syntax error, unexpected ''teacher-bio-settings'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 15
+[18-Oct-2021 13:14:40 UTC] PHP Parse error:  syntax error, unexpected ''teacher-bio-settings'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 15
+[18-Oct-2021 13:14:40 UTC] PHP Parse error:  syntax error, unexpected ''teacher-bio-settings'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 15
+[18-Oct-2021 13:14:40 UTC] PHP Parse error:  syntax error, unexpected ''teacher-bio-settings'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 15
+[18-Oct-2021 13:15:10 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:15:10 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:15:12 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:15:12 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:16:22 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:16:22 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:16:29 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:17:43 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:17:47 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:17:47 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:17:49 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:17:49 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[18-Oct-2021 13:26:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 14
+[18-Oct-2021 13:26:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 14
+[18-Oct-2021 13:26:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 14
+[18-Oct-2021 13:26:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 14
+[18-Oct-2021 13:27:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 14
+[18-Oct-2021 13:27:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 14
+[18-Oct-2021 13:28:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'teacherbiosettingsHTML' not found or invalid function name in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php on line 303
+[18-Oct-2021 13:28:35 UTC] PHP Stack trace:
+[18-Oct-2021 13:28:35 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:0
+[18-Oct-2021 13:28:35 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:10
+[18-Oct-2021 13:28:35 UTC] PHP   3. do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin.php:259
+[18-Oct-2021 13:28:35 UTC] PHP   4. WP_Hook->do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\plugin.php:470
+[18-Oct-2021 13:28:35 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:327
+[18-Oct-2021 13:31:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'teacherbiosettingsHTML' not found or invalid function name in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php on line 303
+[18-Oct-2021 13:31:06 UTC] PHP Stack trace:
+[18-Oct-2021 13:31:06 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:0
+[18-Oct-2021 13:31:06 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:10
+[18-Oct-2021 13:31:06 UTC] PHP   3. do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin.php:259
+[18-Oct-2021 13:31:06 UTC] PHP   4. WP_Hook->do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\plugin.php:470
+[18-Oct-2021 13:31:06 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:327
+[18-Oct-2021 13:33:26 UTC] PHP Warning:  Use of undefined constant settingsLayout - assumed 'settingsLayout' (this will throw an Error in a future version of PHP) in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 17
+[18-Oct-2021 13:33:26 UTC] PHP Stack trace:
+[18-Oct-2021 13:33:26 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:0
+[18-Oct-2021 13:33:26 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:10
+[18-Oct-2021 13:33:26 UTC] PHP   3. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin.php:158
+[18-Oct-2021 13:33:26 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\menu.php:341
+[18-Oct-2021 13:33:26 UTC] PHP   5. do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\includes\menu.php:155
+[18-Oct-2021 13:33:26 UTC] PHP   6. WP_Hook->do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\plugin.php:470
+[18-Oct-2021 13:33:26 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:327
+[18-Oct-2021 13:33:26 UTC] PHP   8. TeacherBioClass->addtoadminpage() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:303
