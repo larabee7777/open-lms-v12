@@ -843,3 +843,63 @@ Stack trace:
 [18-Oct-2021 13:33:26 UTC] PHP   6. WP_Hook->do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\plugin.php:470
 [18-Oct-2021 13:33:26 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:327
 [18-Oct-2021 13:33:26 UTC] PHP   8. TeacherBioClass->addtoadminpage() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:303
+[20-Oct-2021 09:47:47 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[20-Oct-2021 09:47:47 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[20-Oct-2021 10:42:09 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[20-Oct-2021 10:42:10 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 16
+[20-Oct-2021 10:42:41 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:42:41 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:42:42 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:42:43 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:44:09 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:44:09 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:44:38 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:44:38 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:44:40 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:44:40 UTC] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 20
+[20-Oct-2021 10:45:14 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:45:14 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:45:15 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:45:15 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:45:32 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:45:32 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:45:35 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:45:35 UTC] PHP Parse error:  syntax error, unexpected 'sanitize_text_field' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 21
+[20-Oct-2021 10:46:19 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:46:19 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:46:20 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:46:20 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:46:50 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:46:50 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:47:16 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:47:16 UTC] PHP Parse error:  syntax error, unexpected 'Teacher' (T_STRING), expecting ')' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 29
+[20-Oct-2021 10:48:50 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 26
+[20-Oct-2021 10:48:50 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 26
+[21-Oct-2021 08:15:46 UTC] PHP Fatal error:  Cannot redeclare TeacherBioClass::locationHTML() in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 35
+[21-Oct-2021 08:15:46 UTC] PHP Stack trace:
+[21-Oct-2021 08:15:46 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[21-Oct-2021 08:15:46 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[21-Oct-2021 08:15:46 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[21-Oct-2021 08:15:46 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[21-Oct-2021 08:17:47 UTC] PHP Fatal error:  Cannot redeclare TeacherBioClass::locationHTML() in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 35
+[21-Oct-2021 08:17:47 UTC] PHP Stack trace:
+[21-Oct-2021 08:17:47 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:0
+[21-Oct-2021 08:17:47 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin-ajax.php:22
+[21-Oct-2021 08:17:47 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[21-Oct-2021 08:17:47 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[21-Oct-2021 08:17:56 UTC] PHP Fatal error:  Cannot redeclare TeacherBioClass::locationHTML() in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 35
+[21-Oct-2021 08:17:56 UTC] PHP Stack trace:
+[21-Oct-2021 08:17:56 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:0
+[21-Oct-2021 08:17:56 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:10
+[21-Oct-2021 08:17:56 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin.php:34
+[21-Oct-2021 08:17:56 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[21-Oct-2021 08:17:56 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[21-Oct-2021 08:17:56 UTC] PHP Fatal error:  Cannot redeclare TeacherBioClass::locationHTML() in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 35
+[21-Oct-2021 08:17:56 UTC] PHP Stack trace:
+[21-Oct-2021 08:17:56 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:0
+[21-Oct-2021 08:17:56 UTC] PHP   2. require() C:\Users\laraw\Local Sites\open-lms-v12\app\public\index.php:17
+[21-Oct-2021 08:17:56 UTC] PHP   3. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-blog-header.php:13
+[21-Oct-2021 08:17:56 UTC] PHP   4. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-load.php:50
+[21-Oct-2021 08:17:56 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
+[21-Oct-2021 08:19:21 UTC] PHP Parse error:  syntax error, unexpected '' ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 37
+[21-Oct-2021 08:19:23 UTC] PHP Parse error:  syntax error, unexpected '' ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 37
