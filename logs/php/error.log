@@ -903,3 +903,19 @@ Stack trace:
 [21-Oct-2021 08:17:56 UTC] PHP   5. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-config.php:77
 [21-Oct-2021 08:19:21 UTC] PHP Parse error:  syntax error, unexpected '' ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 37
 [21-Oct-2021 08:19:23 UTC] PHP Parse error:  syntax error, unexpected '' ?>>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 37
+[22-Oct-2021 10:20:56 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 34
+[22-Oct-2021 10:20:56 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 34
+[22-Oct-2021 10:20:58 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 34
+[22-Oct-2021 10:20:58 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 34
+[22-Oct-2021 10:21:14 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 34
+[22-Oct-2021 10:21:14 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php on line 34
+[22-Oct-2021 10:21:35 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'TeacherBioClass' does not have a method 'announcementsHTML' in C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\includes\template.php on line 1743
+[22-Oct-2021 10:21:35 UTC] PHP Stack trace:
+[22-Oct-2021 10:21:35 UTC] PHP   1. {main}() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:0
+[22-Oct-2021 10:21:35 UTC] PHP   2. require_once() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\options-general.php:10
+[22-Oct-2021 10:21:35 UTC] PHP   3. do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\admin.php:259
+[22-Oct-2021 10:21:35 UTC] PHP   4. WP_Hook->do_action() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\plugin.php:470
+[22-Oct-2021 10:21:35 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:327
+[22-Oct-2021 10:21:35 UTC] PHP   6. TeacherBioClass->settingsLayoutHTML() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-includes\class-wp-hook.php:303
+[22-Oct-2021 10:21:35 UTC] PHP   7. do_settings_sections() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-content\plugins\Add Teacher Bio\add_teacher_bio.php:65
+[22-Oct-2021 10:21:35 UTC] PHP   8. do_settings_fields() C:\Users\laraw\Local Sites\open-lms-v12\app\public\wp-admin\includes\template.php:1701

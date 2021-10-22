@@ -24,12 +24,19 @@ class TeacherBioClass {
         add_settings_field('tbs_headline','Headline Text',array($this,'headlineHTML'),'teacher-bio-settings-page','tbs-section1');
         register_setting('tbs_group','tbs_headline',array('sanitize_callback' =>'sanitize_text_field','default'=>'Headline Text'));
 
-        //add_settings_field('tbs_','Headline Text',array($this,'headlineHTML'),'teacher-bio-settings-page','tbs-section1');
-        //register_setting('tbs_group','tbs_headline',array('sanitize_callback' =>'sanitize_text_field','default'=>'Headline Text'));
+        add_settings_field('tbs_showAnnouncements','Show Announcements',array($this,'announcementsHTML'),'teacher-bio-settings-page','tbs-section1');
+        register_setting('tbs_group','tbs_showAnnouncements',array('sanitize_callback' =>'sanitize_text_field','default'=>'1'));
 
 
     }
     
+    function announcementsHTML() {
+        ?>
+            <input type="checkbox" name='tbs_showAnnouncements' value='1' <?php checked(get_option('tbs_showAnnouncements'),1) ?>
+        <?php
+    }
+
+
     function headlineHTML(){
         ?>
         <input type='text' name='tbs_headline' value='<?php echo esc_attr(get_option('tbs_headline')) ?>' 
