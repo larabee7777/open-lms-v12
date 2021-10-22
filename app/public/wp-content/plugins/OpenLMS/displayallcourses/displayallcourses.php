@@ -26,12 +26,3 @@ function create_block_displayallcourses_block_init() {
 add_action( 'init', 'create_block_displayallcourses_block_init' );
 ?>
 
-<?php
-
-add_filter('the_content',b);
-
-function addToEndOfPost($content){
-	return $content.'<p>plugin test for display all courses</p>';
-}
-
-?>
