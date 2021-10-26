@@ -55,7 +55,7 @@ function course_init() {
     register_post_type( 'course', $args );
     
     // register taxonomy
-    register_taxonomy('course_category', 'course', array('hierarchical' => true, 'label' => 'Category', 'query_var' => true, 'rewrite' => array( 'slug' => 'course-category' )));
+    register_taxonomy('course_category', 'course', array('hierarchical' => true,'label' => 'Category', 'query_var' => true, 'rewrite' => array( 'slug' => 'course-category' )));
 }
 add_action( 'init', 'course_init' );
 
