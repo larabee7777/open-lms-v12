@@ -60,8 +60,3 @@ function course_init() {
 add_action( 'init', 'course_init' );
 
 
-
-
-
-
-?>
